@@ -2,7 +2,7 @@ pandas
 mlflow
 notebook
 numpy
-sklearn
+scikit-learn
 matplotlib
 python-box
 pyYAML
