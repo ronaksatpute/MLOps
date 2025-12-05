@@ -1,0 +1,10 @@
+artifact_location: file:///Users/ronaksatpute/Projects/MLOps/mlruns/0/models/m-f852645dbc8d49cca1401da03b552f6d/artifacts
+creation_timestamp: 1764953709909
+experiment_id: '0'
+last_updated_timestamp: 1764953711259
+model_id: m-f852645dbc8d49cca1401da03b552f6d
+model_type: null
+name: model
+source_run_id: 1231a0a32b3d4fc6bc82478006f63408
+status: 2
+status_message: null
